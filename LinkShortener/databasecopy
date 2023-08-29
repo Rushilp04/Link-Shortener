@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDEWfLZ1IkSHfLY5lej60ewRTQBn-hcKW4",
+  authDomain: "linkshortener-dc857.firebaseapp.com",
+  projectId: "linkshortener-dc857",
+  storageBucket: "linkshortener-dc857.appspot.com",
+  messagingSenderId: "196847623335",
+  appId: "1:196847623335:web:fec6a4d83be47c1cfa0f82",
+  measurementId: "G-F1F7BPFYY4"
+};
