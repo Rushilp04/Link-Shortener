@@ -18,7 +18,6 @@ def hello_world():
 def homepage():
     return render_template('index.html')
 
-
 @app.route('/<path:generatedKey>', methods=['GET'])
 def fetch_from_firebase(generatedKey):
     ref = db.reference("/"+ generatedKey)
