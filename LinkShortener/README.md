@@ -27,4 +27,4 @@ long URLS page.
 3. Besure you have the ServiceAccountKey.json in mini-link-it-server. 
 4. `python wsgi.py`
 
-The flask app is also set up to run the production version the react app. The build should be locatedin the app folder for this to work!
+I have this project running locally on localhost. I also did not include my service account key file since it contiains sensitive information.
